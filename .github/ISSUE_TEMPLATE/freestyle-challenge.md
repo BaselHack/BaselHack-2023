@@ -20,11 +20,15 @@ Please list any teams members that already showed interest to work on this chall
 - Member 2
 - ...
 
+If your team is full, and you do not need any members anymore, please remove the `need_members` label.
+
 **Team Open To Others?**
 
 Please specify if your team is open for other BaselHack participants to join. BaselHack recommends team sizes of about 5 persons. A team needs to have at least 2 members and at most 10 members.
 
 [Yes / No]
+
+If it's not open to others, please label this issue as `private_challenge`.
 
 **Challenge Pitch**
 
@@ -35,5 +39,5 @@ If the challenge is open to others, it is beneficial to have some slides for the
 
 **Datasets**
 
-If applicable, please state what datasets are publicly avaialable or what private datasets you can bring to the hackathon.
+If applicable, please state what datasets are publicly available or what private datasets you can bring to the hackathon.
 
