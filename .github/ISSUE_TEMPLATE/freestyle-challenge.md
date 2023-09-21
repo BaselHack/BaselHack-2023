@@ -3,7 +3,7 @@ name: Freestyle Challenge
 about: Publish your challenge before the BaselHack event to get attention and initial
   traction to build a team.
 title: Add your challenge name
-labels: need_members
+labels: need_members, open_challenge
 assignees: yguenduez
 
 ---
