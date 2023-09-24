@@ -18,6 +18,7 @@ gathering a team for your idea. Interested hackers can answer on your challenge 
     - What is the problem you want to solve? 
     - What is the motivation behind?
     - What is your idea?
+    - What is the goal?
 3. Get a table assigned with your freestyle challenge.
 4. Hackers, which find your idea interesting, will join you at your table.
 5. Win 1000 Swiss Francs for the best freestyle challenge - Good luck!
