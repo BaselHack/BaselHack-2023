@@ -22,7 +22,7 @@ gathering a team for your idea. Interested hackers can answer on your challenge 
 3. Get a table assigned with your freestyle challenge.
 4. Hackers, which find your idea interesting, will join you at your table.
 5. Hack your challenge with your team.
-6. Pitch your solutions in front of a jury and all hackers.
+6. Pitch your solution in front of a jury and all hackers.
 7. Win 1000 Swiss Francs for the best freestyle challenge - Good luck!
 
 ## More about BaselHack 2023
