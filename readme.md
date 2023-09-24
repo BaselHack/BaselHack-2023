@@ -16,7 +16,7 @@ gathering a team for your idea. Interested hackers can answer on your challenge 
 1. (optional): Submit your challenge here, see above.
 2. Pitch your challenge (3 minutes) in front of all hackers, before the BaselHack starts:
     - What is the problem you want to solve? 
-    - What is the Motivation behind?
+    - What is the motivation behind?
     - What is your idea?
 3. Get a table assigned with your freestyle challenge.
 4. Hackers, which find your idea interesting, will join you at your table.
