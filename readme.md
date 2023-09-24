@@ -21,8 +21,9 @@ gathering a team for your idea. Interested hackers can answer on your challenge 
     - What is the goal?
 3. Get a table assigned with your freestyle challenge.
 4. Hackers, which find your idea interesting, will join you at your table.
-5. Hack your challenge with your team - till 4PM on Sunday 29. October.
-6. Win 1000 Swiss Francs for the best freestyle challenge - Good luck!
+5. Hack your challenge with your team.
+6. Pitch your solutions in front of a jury and all hackers.
+7. Win 1000 Swiss Francs for the best freestyle challenge - Good luck!
 
 ## More about BaselHack 2023
 
