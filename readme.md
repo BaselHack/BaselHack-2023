@@ -14,7 +14,7 @@ gathering a team for your idea. Interested hackers can answer on your challenge 
 ### How does it work
 
 1. (optional): Submit your challenge here, see above.
-2. Pitch your challenge (3 minutes) in front of all hackers, before the BaselHack starts.
+2. Pitch your challenge (3 minutes) in front of all hackers, before the BaselHack starts:
     - What is the problem you want to solve? 
     - What is the Motivation behind?
     - What is your idea?
